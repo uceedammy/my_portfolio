@@ -1,0 +1,65 @@
+body {
+  background-color: #DDF4E790;
+  color: #152744;
+}
+
+.navbar {
+  background-color: #152744;
+  color: #fff;
+}
+h2 {
+  color: #367591;
+}
+.btn-accent {
+  background-color: #61D2B4;
+  color: #152744;
+}
+/* background */
+.bg-deep-blue { background-color: #152744 !important;}
+.bg-teal-green { background-color: #367591 !important;}
+.bg-accent { background-color: #61D2B420 !important;}
+.bg-off-white {background-color: #FFF2DB !important;}
+.bg-white { background-color: #fff !important;}
+/* text */
+.text-deep-blue {color: #152744 !important;}
+.text-teal-green {color: #367591 !important;}
+.text-accent {color: #61D2B4 !important;}
+.text-off-white {color: #FFF2DB !important;}
+.text-white {color: #fff;}
+
+.nav-intro {
+    color: #fff;
+}
+
+.profile-img { 
+   margin-right: 50px;
+}
+.overlay-image {
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    top: 340px; /* Adjust position */
+    left: 860px; /* Adjust position */   
+    align-items: center;      
+}
+.name {
+    position: absolute;
+    bottom: 10px; /* Adjust position */
+    left: 820px;
+    align-items: center; /* Adjust position */ 
+}
+
+.card-body { width: 100%;}
+.card-text {width: 100%; text-align: center;}
+.card-title {text-align: center;}
+
+.core {text-align: center;text-transform: uppercase;}
+
+.card-core {
+    text-align: left;
+}
+.container > .design {
+  justify-content: flex-start;
+  align-items: flex-start;
+}
